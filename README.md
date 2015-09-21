@@ -8,3 +8,6 @@
 본 Repo에 Join 하기를 원하는 분들은 ace.jckim@gmail.com으로 github 계정 혹은 github에 연동되어있는 이메일 계정을 보내주시면 되겠습니다.
 
 오늘도 행복한 개발하세요.
+--
+https://github.com/ssuoss/HelloSSU/issues 에서 이 레포 커뮤니티가 뭘 하면 좋을지 IDEA를 적고있습니다.
+자유롭게 많은 의견 주세요!
