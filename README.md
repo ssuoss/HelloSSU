@@ -9,5 +9,5 @@
 
 오늘도 행복한 개발하세요.
 
-[이슈 공유](https://github.com/ssuoss/HelloSSU/issues) 에서 이 레포 커뮤니티가 뭘 하면 좋을지 아이디어를 적고있습니다.
+[이슈 공유](https://github.com/ssuoss/HelloSSU/issues) 에서 이 커뮤니티가 뭘 하면 좋을지 아이디어를 적고있습니다.
 **자유롭게 많은 의견 주세요!**
